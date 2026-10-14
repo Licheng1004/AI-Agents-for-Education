@@ -1,3 +1,19 @@
+# Learning repository — attribution
+
+**Original repository:** [aws-samples/AI-Agents-for-Education](https://github.com/aws-samples/AI-Agents-for-Education)
+
+**Original authors / maintainers:** AWS sample agents for educational use cases
+
+**Purpose of this fork:** study, coursework and reference.
+
+This is an upstream example repository kept for study and reference. No Licheng-authored development commit was found in the local history reviewed on 2026-10-14.
+
+Fork ownership does not imply authorship of the upstream project. Original license notices, credits and contribution history are retained; consult the upstream repository and the license files below for reuse terms.
+
+---
+
+## Original upstream README
+
 # Bedrock Agents for EDU Use Cases
 
 This repository showcases example agents created for educational use cases, including both AWS Bedrock Agents and Strands Agents SDK implementations.
